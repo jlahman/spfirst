@@ -1,4 +1,4 @@
-function mypath = SPFirst
+function mypath = spfirst
 % Run this to update the MATLAB path to include the MATLAB demos.
 %   Sinusoid Drill (sindrill)
 %   Complex Number Drill (zdrill)
